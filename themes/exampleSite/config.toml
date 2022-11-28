@@ -47,17 +47,17 @@ googleAnalytics = ""
   url = "steak-klasik/"
   home = true
   
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
+  #[[params.navlinks]]
+  #name = "Home"
+  #url = "portfolio/"
   
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  #[[params.navlinks]]
+  #name = "About"
+  #url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/meatcompiler"

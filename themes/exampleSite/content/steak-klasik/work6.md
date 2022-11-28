@@ -1,10 +1,10 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Sirloin 185.000"
+title = "Coffee Butter RibEye 185.000"
 draft = false
-image = "img/steak-klasik/Premium-Sirloin.png"
+image = "img/steak-klasik/Coffeebutter-RibEye.png"
 showonlyimage = false
-weight = 2
+weight = 5
 +++
 
 Steak potongan beef kualitas premium dengan ciri khas lemak berada di pinggir (has luar), berbumbu marinasi khas MC. 
