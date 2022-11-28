@@ -44,12 +44,12 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Steak Klasik"
   url = "steak-klasik/"
-
+  home = true
+  
   [[params.navlinks]]
   name = "Home"
   url = "portfolio/"
-  home = true
-
+  
   [[params.navlinks]]
   name = "About"
   url = "about/"
@@ -70,4 +70,3 @@ googleAnalytics = ""
   #gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
   whatsapp      = "https://wa.me/628176328000"
-y
