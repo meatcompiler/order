@@ -15,7 +15,8 @@ googleAnalytics = ""
   copyright = "&copy;2022 Meat Compiler"
   sidebarAbout = [
     "Silahkan pilih menu di sini, jika ada yang mau ditanyakan silahkan hubungi kami ;)",
-    "The only Steak House with GitHub Repository."
+    "Meat Compiler Bintaro",
+    "Meat Compiler Cikajang"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
