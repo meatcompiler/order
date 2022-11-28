@@ -67,6 +67,10 @@ googleAnalytics = ""
   name = "MC Real Deal"
   url = "mc-real-deal/"
 
+  [[params.navlinks]]
+  name = "Snack & Sweets"
+  url = "snack-n-sweets/"
+
   #[[params.navlinks]]
   #name = "About"
   #url = "about/"
