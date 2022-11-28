@@ -9,4 +9,4 @@ weight = 1
 
 Fillet paha ayam yang lezat, dimarinasi bumbu khas MC dan dipanggang hingga matang. Termasuk side dish dan 1 (satu) pilihan saus.
 
-**125.000**
+**65.000**

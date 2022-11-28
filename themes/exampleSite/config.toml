@@ -47,9 +47,9 @@ googleAnalytics = ""
   url = "steak-klasik/"
   home = true
   
-  #[[params.navlinks]]
-  #name = "Home"
-  #url = "portfolio/"
+  [[params.navlinks]]
+  name = "MC Steaks"
+  url = "mc-steaks/"
   
   #[[params.navlinks]]
   #name = "About"
