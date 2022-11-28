@@ -4,7 +4,7 @@ title = "Herb-crusted Salmon 125.000"
 draft = false
 image = "img/steak-klasik/Herbcrust-Salmon.png"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 Fillet ikan salmon berlapis campuran remah roti dan bumbu herba, dipanggang hingga matang. Termasuk side dish dan 1 (satu) pilihan saus.

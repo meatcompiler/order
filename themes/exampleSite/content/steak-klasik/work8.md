@@ -4,7 +4,7 @@ title = "Coffee Butter Tenderloin 195.000"
 draft = false
 image = "img/steak-klasik/Tenderloin.png"
 showonlyimage = false
-weight = 7
+weight = 8
 +++
 
 Klasik dengan sentuhan unik! Premium tenderloin (has dalam) yang dipoles mentega leleh beraroma kopi.

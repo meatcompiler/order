@@ -4,7 +4,7 @@ title = "Coffee Butter RibEye 185.000"
 draft = false
 image = "img/steak-klasik/Coffeebutter-RibEye.png"
 showonlyimage = false
-weight = 5
+weight = 6
 +++
 
 Steak potongan beef kualitas premium dengan ciri khas lemak berada di pinggir (has luar), berbumbu marinasi khas MC. 

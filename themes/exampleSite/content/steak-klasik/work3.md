@@ -4,7 +4,7 @@ title = "Sirloin 185.000"
 draft = false
 image = "img/steak-klasik/Premium-Sirloin.png"
 showonlyimage = false
-weight = 2
+weight = 3
 +++
 
 Steak potongan beef kualitas premium dengan ciri khas lemak berada di pinggir (has luar), berbumbu marinasi khas MC. 

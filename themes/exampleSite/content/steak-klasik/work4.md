@@ -4,7 +4,7 @@ title = "Coffee Butter Sirloin 185.000"
 draft = false
 image = "img/steak-klasik/Coffeebutter-Sirloin.png"
 showonlyimage = false
-weight = 3
+weight = 4
 +++
 
 Klasik dengan sentuhan unik! Premium sirloin (has luar) yang dipoles mentega leleh beraroma kopi.

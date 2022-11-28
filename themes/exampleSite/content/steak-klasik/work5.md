@@ -4,7 +4,7 @@ title = "RibEye 185.000"
 draft = false
 image = "img/steak-klasik/Premium-RibEye.png"
 showonlyimage = false
-weight = 4
+weight = 5
 +++
 
 Steak potongan beef kualitas premium dari bagian iga dengan ciri khas lemak di bagian tengah, berbumbu marinasi khas MC.
