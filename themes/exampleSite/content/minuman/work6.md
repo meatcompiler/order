@@ -1,0 +1,12 @@
++++
+date = "2016-11-05T19:41:01+05:30"
+title = "Iced Sweet Thai Tea 20.000"
+draft = false
+image = "img/minuman/Ice-Thai-Tea.png"
+showonlyimage = false
+weight = 6
++++
+
+Thai tea dengan susu yang manis.
+
+**20.000**
