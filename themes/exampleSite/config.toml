@@ -1,5 +1,5 @@
 baseurl = "https://order.meatcompiler.com/"
-title = "Creative portfolio"
+title = "Meat Compiler"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,8 +15,8 @@ googleAnalytics = ""
   copyright = "&copy;2022 Meat Compiler"
   sidebarAbout = [
     "Silahkan pilih menu di sini, jika ada yang mau ditanyakan silahkan hubungi kami ;)",
-    "<a href="https://goo.gl/maps/cEQFvs76JcXbkyew8">Meat Compiler Bintaro</a>",
-    "<a href="https://goo.gl/maps/p8RrFntRfFaHYY6y5">Meat Compiler Cikajang</a>"
+    "{{< ref "https://goo.gl/maps/cEQFvs76JcXbkyew8" >}}Meat Compiler Bintaro",
+    "Meat Compiler Cikajang"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
