@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://happy-hill-01d152700.2.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'Meat Compiler Order'
 theme = "exampleSite"
