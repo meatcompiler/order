@@ -1,4 +1,4 @@
 baseURL = 'https://happy-hill-01d152700.2.azurestaticapps.net/'
 languageCode = 'en-us'
-title = 'Meat Compiler Order'
+title = 'Meat Compiler'
 theme = "exampleSite"
