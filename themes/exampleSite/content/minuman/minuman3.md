@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 3
 +++
 
+![Iced Okinawa Brown Sugar][1]
+
 Susu segar dingin dengan sirup okinawa brown sugar (tanpa boba).
 
 **15.000**
+
+[1]: img/minuman/Ice-Okinawa-Brown-Sugar.png

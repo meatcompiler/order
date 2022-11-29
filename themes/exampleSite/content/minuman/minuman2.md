@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 2
 +++
 
+![Lemon Tea][1]
+
 FREE REFILL 1 kali, dengan pilihan ice atau hot.
 
 **20.000**
+
+[1]: /img/minuman/Ice-Jasmine-Tea.png
