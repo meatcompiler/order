@@ -7,8 +7,10 @@ title = "Jasmine Tea 15.000"
 weight = 1
 +++
 
-![Jasmine Tea][/img/minuman/Ice-Jasmine-Tea.png]
+![Jasmine Tea][1]
 
 FREE REFILL 1 kali, dengan pilihan ice atau hot.
 
 **15.000**
+
+[1]: /img/minuman/Ice-Jasmine-Tea.png
