@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 8
 +++
 
+![Mineral water][1]
+
 Air mineral botolan (600 ml).
 
 **10.000**
+
+[1]: /img/minuman/Mineral.png

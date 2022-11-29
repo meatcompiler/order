@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 9
 +++
 
+![Unsweetened Tea][1]
+
 Seduhan teh melati tanpa gula.
 
 **10.000**
+
+[1]: /img/minuman/TehTawar.png

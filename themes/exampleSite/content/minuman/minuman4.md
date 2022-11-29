@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 4
 +++
 
+![Iced Kopi Susu MC][1]
+
 Seduhan roasted coffee dengan susu segar dingin dan gula aren.
 
 **15.000**
+
+[1]: /img/minuman/Ice-Kopi-Susu-MC.png

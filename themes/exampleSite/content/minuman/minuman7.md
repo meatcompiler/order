@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 7
 +++
 
+![Coca-cola][1]
+
 Coca-cola kemasan kaleng (330 ml).
 
 **15.000**
+
+[1]: /img/minuman/Cola.png

@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 5
 +++
 
+![Iced Dark Choco MC][1]
+
 Coklat malt dengan susu segar dingin.
 
 **20.000**
+
+[1]: /img/minuman/Ice-Dark-Choco.png

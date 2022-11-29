@@ -7,6 +7,10 @@ showonlyimage = false
 weight = 6
 +++
 
+![Iced Sweet Thai Tea][1]
+
 Thai tea dengan susu yang manis.
 
 **20.000**
+
+[1]: /img/minuman/Ice-Thai-Tea.png

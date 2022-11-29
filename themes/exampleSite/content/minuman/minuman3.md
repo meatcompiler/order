@@ -13,4 +13,4 @@ Susu segar dingin dengan sirup okinawa brown sugar (tanpa boba).
 
 **15.000**
 
-[1]: img/minuman/Ice-Okinawa-Brown-Sugar.png
+[1]: /img/minuman/Ice-Okinawa-Brown-Sugar.png
