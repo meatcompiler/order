@@ -9,4 +9,4 @@ weight = 1
 
 500 gram potongan campuran, dengan komposisi Tenderloin (MC Tender) dan campuran Sirloin/ RibEye (sesuai ketersediaan stok), dan Chicken. Termasuk side dish dan 2 (dua) pilihan saus.
 
-**195.000**
+**400.000**
