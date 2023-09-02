@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Mineral water 1515.000"
+title = "Mineral water 15.000"
 draft = false
 image = "img/minuman/Mineral.png"
 showonlyimage = false
