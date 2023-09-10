@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/mc-real-deal/MC-Cheeseburger.png"
+image = "img/mc-real-deal/File 5.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Japanese Beef Fried Rice 85.000"
 weight = 1
