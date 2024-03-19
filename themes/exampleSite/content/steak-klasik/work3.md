@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Sirloin 165.000"
+title = "250gr Sirloin 165.000"
 draft = false
 image = "img/steak-klasik/Premium-Sirloin.png"
 showonlyimage = false
