@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "MC Special (400 gram) 450.000"
+title = "MC Special (400 gram) 350.000"
 draft = false
 image = "img/steak-for-sharing/MC-Specials.png"
 showonlyimage = false
@@ -11,4 +11,4 @@ Cara penyajian terunik di MC! 400 gram Tenderloin dipotong tipis-tipis, dimasak 
 
 Termasuk side dish dan 2 (dua) pilihan saus.
 
-**450.000**
+**350.000**
