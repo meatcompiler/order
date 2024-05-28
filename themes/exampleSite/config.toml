@@ -48,6 +48,10 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
+  name = "Pizza Neapoletana"
+  url = "pizza/"
+  
+  [[params.navlinks]]
   name = "Lunch Menu"
   url = "lunch-menu/"
   
