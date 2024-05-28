@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/mc-steaks/MC-Steak-200.png"
+image = "img/pizza/margherita.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Pizza Margherita 65.000"
 weight = 1
